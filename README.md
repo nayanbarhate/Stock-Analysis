@@ -14,6 +14,7 @@ To refactor the VBA code so it can run faster than my previous code.
 ### Results
 
 -  I was able to refactor the code to run the 2017 sheet at 0.078125 seconds, which is 0.5156250 seconds faster than the previous version, and I was able to make 2018 sheet run time to the same 0.078125 seconds, which is 0.609375 seconds faster. 
+
 ![VBA_Challenge_2017](https://github.com/nayanbarhate/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 
